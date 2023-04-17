@@ -6,7 +6,7 @@
 python main.py
 ```
 
-<h2>Commande vocal</h2>
+<h2>Commandes vocales</h2>
 
 <li> Donnez un angle </li>
 <li> Donnez une distance </li>
