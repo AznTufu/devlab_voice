@@ -1,5 +1,23 @@
 # Parle pour dessiner
 
+<2>Librairies</h2>
+
+```
+pip install SpeechRecognition
+
+pip install pyttsx3
+
+pip install gTTS
+
+pip install playsound
+
+pip install pyaudio
+
+pip install -UPyObjC
+
+pip install pypiwin32
+```
+
 <h2>Démarrage</h2>
 
 ```
