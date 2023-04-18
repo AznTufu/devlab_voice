@@ -1,6 +1,6 @@
 # Parle pour dessiner
 
-<2>Librairies</h2>
+<h2>Librairies</h2>
 
 ```
 pip install SpeechRecognition
